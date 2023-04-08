@@ -10,6 +10,6 @@ Requires:
   2) auth.log file
 
 Information:
-	1) Date & Time Period
-	2) Failed Attempts
-	3) Successful Attempts
+1) Date & Time Period
+2) Failed Attempts
+3) Successful Attempts
