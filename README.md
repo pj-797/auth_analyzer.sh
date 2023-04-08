@@ -8,3 +8,8 @@ Usage:
 Requires:
   1) Geo-IP installed
   2) auth.log file
+
+Information:
+	1) Date & Time Period
+	2) Failed Attempts
+	3) Successful Attempts
